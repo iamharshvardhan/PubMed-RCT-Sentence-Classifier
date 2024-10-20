@@ -1,7 +1,7 @@
 
 # PubMed RCT Sentence Classifier
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ4K3IMdG9fQT-Fz-H1RypHhjDHVzLkC5_CA&s">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ4K3IMdG9fQT-Fz-H1RypHhjDHVzLkC5_CA&s" width=50%>
 
 This project replicates research from two key papers focused on sequential sentence classification in medical abstracts, utilizing the **PubMed 200k RCT** dataset. The implementation focuses on sentence classification tasks using neural networks and aims to classify each sentence in medical research abstracts into categories like background, objective, methods, results, and conclusions.
 
@@ -51,5 +51,5 @@ The notebook leverages the `PubMed_20k_RCT` and `PubMed_200k_RCT` datasets, whic
     ```bash
     git clone https://github.com/Franck-Dernoncourt/pubmed-rct.git
     ```
-3. Run the [notebook]("pubmed_rct_sentence_classifier.ipynb") in a Jupyter environment.
+3. Run the [notebook](pubmed_rct_sentence_classifier.ipynb) in a Jupyter environment.
 
